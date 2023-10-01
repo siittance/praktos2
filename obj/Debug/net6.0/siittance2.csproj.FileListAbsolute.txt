@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\siittance2\siittance2\bin\Debug\net6.0\siittance2.exe
+C:\Users\Administrator\source\repos\siittance2\siittance2\bin\Debug\net6.0\siittance2.deps.json
+C:\Users\Administrator\source\repos\siittance2\siittance2\bin\Debug\net6.0\siittance2.runtimeconfig.json
+C:\Users\Administrator\source\repos\siittance2\siittance2\bin\Debug\net6.0\siittance2.dll
+C:\Users\Administrator\source\repos\siittance2\siittance2\bin\Debug\net6.0\siittance2.pdb
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.dll
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\refint\siittance2.dll
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.pdb
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\siittance2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\siittance2\siittance2\obj\Debug\net6.0\ref\siittance2.dll
